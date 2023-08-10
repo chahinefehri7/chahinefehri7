@@ -1,5 +1,5 @@
 ### 
-<h1>Hi there welcom to my gitHub 👋</h1>
+<center><h1>Hi there welcom to my gitHub 👋</h1></center>
 - 🌱 I’m currently learning ... computer vision <br>
 <ul>
   <li><small>if you can help me with it don't be hesitant</small></li>
