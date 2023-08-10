@@ -1,6 +1,6 @@
 ### 
 <h1>Hi there welcom to my gitHub 👋</h1>
-- 🌱 I’m currently learning ... computer vision
+- 🌱 I’m currently learning ... computer vision <br>
 <small>if you can help me with it don't be hesitant</small>
 <!--
 **chahinefehri7/chahinefehri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
