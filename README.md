@@ -1,7 +1,7 @@
 ### 
 <h1>Hi there welcom to my gitHub 👋</h1>
 - 🌱 I’m currently learning ... computer vision
-<div><iframe allow="fullscreen" frameBorder="0" height="320" src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" width="480"></iframe></div>
+<small>if you can help me with it don't be hesitant</small>
 <!--
 **chahinefehri7/chahinefehri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
