@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chahine</h1>
-<h3 align="center">A passionate frontend developerA passionate Web developer From Tunisiafrom India</h3>
+<h3 align="center">A passionate Web developer From Tunisia</h3>
 <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif" alt="just me coding in peace">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chahinefehri7&label=Profile%20views&color=0e75b6&style=flat" alt="chahinefehri7" /> </p>
